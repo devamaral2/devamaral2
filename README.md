@@ -2,6 +2,9 @@
 
 
 - 🌱 I’m currently learning typescript and node.js
+- 😄 Check out some of my projects:
+  - Blogs-api(a backend application using SQL and sequelize):
+    - asdasdasdasdaww  
 - 📫 How to reach me:  
   - email: amaral.avelar.filo@gmail.com
   - linkedIn: https://www.linkedin.com/in/rafael-amaral-naves-avelar/
