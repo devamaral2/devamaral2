@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning typescript and node.js
 - 📫 How to reach me:  
-  email: amaral.avelar.filo@gmail.com
-  linkedIn: https://www.linkedin.com/in/rafael-amaral-naves-avelar/
+  - email: amaral.avelar.filo@gmail.com
+  - linkedIn: https://www.linkedin.com/in/rafael-amaral-naves-avelar/
 
 </br>
 <div align="center">
