@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning typescript and node.js
-- 
+
 - 😄 Check out some of my projects:
   - Blogs-api(a backend application using SQL, sequelize and authentication with JWT ):
     - https://github.com/devamaral2/blogs-api
