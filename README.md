@@ -2,9 +2,14 @@
 
 
 - 🌱 I’m currently learning typescript and node.js
+- 
 - 😄 Check out some of my projects:
-  - Blogs-api(a backend application using SQL and sequelize):
-    - asdasdasdasdaww  
+  - Blogs-api(a backend application using SQL, sequelize and authentication with JWT ):
+    - https://github.com/devamaral2/blogs-api
+  - Recipe-app(a front-end application which uses an external api to create recipe lists):
+    - https://github.com/devamaral2/recipe-app-next-js
+    - https://recipe-app-next-js-kappa.vercel.app/ (working website)
+  
 - 📫 How to reach me:  
   - email: amaral.avelar.filo@gmail.com
   - linkedIn: https://www.linkedin.com/in/rafael-amaral-naves-avelar/
