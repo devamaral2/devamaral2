@@ -1,16 +1,18 @@
 # Hi I'm Rafael Amaral Naves Avelar
 
 
-- 🌱 I’m currently learning typescript and node.js
+- 🌱 Atualmente estou estudando C# e java
 
-- 😄 Check out some of my projects:
-  - Blogs-api(a backend application using SQL, sequelize and authentication with JWT ):
+- 😄 Dê uma olhada nos projetos que já criei:
+  - Trybe-futebol-clube (uma aplicação typescript escrita em POO usando os conceitos de SOLID, com docker, criptografia, sequelize jwt e testes)
+    - https://github.com/devamaral2/Trybe-futebol-clube
+  - Blogs-api (uma aplicação backend usando javascript, SQL, sequelize e autentificação JWT):
     - https://github.com/devamaral2/blogs-api
-  - Recipe-app(a front-end application which uses an external api to create recipe lists):
+  - Recipe-app( uma aplicação front end que usa Next.js e funcionalidades para realizar o render de algumas páginas na buid da aplicação):
     - https://github.com/devamaral2/recipe-app-next-js
     - https://recipe-app-next-js-kappa.vercel.app/ (working website)
   
-- 📫 How to reach me:  
+- 📫 Como me encontrar:  
   - email: amaral.avelar.filo@gmail.com
   - linkedIn: https://www.linkedin.com/in/rafael-amaral-naves-avelar/
 
@@ -22,7 +24,7 @@
 </div>
 </br>
 
- ### Some technologies I often use:
+ ### Algumas das tecnologias que eu utilizo:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="amaral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +35,7 @@
   <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">   
   <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> 
 </div>
    </br>
   
