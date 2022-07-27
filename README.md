@@ -10,7 +10,7 @@
     - https://github.com/devamaral2/blogs-api
   - Recipe-app( uma aplicação front end que usa Next.js e funcionalidades para realizar o render de algumas páginas na buid da aplicação):
     - https://github.com/devamaral2/recipe-app-next-js
-    - https://recipe-app-next-js-kappa.vercel.app/ (working website)
+    - https://recipe-app-next-js-kappa.vercel.app/ (website)
   
 - 📫 Como me encontrar:  
   - email: amaral.avelar.filo@gmail.com
