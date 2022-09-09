@@ -1,4 +1,4 @@
-# Hi I'm Rafael Amaral Naves Avelar
+# Olá eu sou Rafael Amaral Naves Avelar
 
 
 - 🌱 Atualmente estou estudando C# e java
