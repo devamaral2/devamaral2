@@ -3,14 +3,7 @@
 
 - 🌱 Atualmente estou estudando C# e java
 
-- 😄 Dê uma olhada nos projetos que já criei:
-  - Trybe-futebol-clube (uma aplicação typescript escrita em POO usando os conceitos de SOLID, com docker, criptografia, sequelize jwt e testes)
-    - https://github.com/devamaral2/Trybe-futebol-clube
-  - Blogs-api (uma aplicação backend usando javascript, SQL, sequelize e autentificação JWT):
-    - https://github.com/devamaral2/blogs-api
-  - Recipe-app( uma aplicação front end que usa Next.js e funcionalidades para realizar o render de algumas páginas na buid da aplicação):
-    - https://github.com/devamaral2/recipe-app-next-js
-    - https://recipe-app-next-js-kappa.vercel.app/ (website)
+- 😄 Sou desenvolvedor fullStack e trabalho principalmente com react e node. Dê uma olhada nos repositórios.
   
 - 📫 Como me encontrar:  
   - email: amaral.avelar.filo@gmail.com
@@ -35,8 +28,9 @@
   <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">   
   <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> 
-  <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
+  <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"> 
+    <img align="center" alt="amaral-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
 </div>
    </br>
   
